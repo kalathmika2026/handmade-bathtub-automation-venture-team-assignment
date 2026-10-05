@@ -15,7 +15,7 @@
 | Inquiry ID | Source | Prospect Name | Status | Missing Details for Quote | Immediate Next Action / Response Strategy |
 | :--- | :--- | :--- | :--- | :--- | :--- |
 | **L01** | Instagram | Person C001 | **In Progress** | Specific design/dimensions for the Pune bathroom basin. | Schedule a custom bathroom consultation link to lock down sizing choices. |
-| **L02** | Website | Person C001 | **Duplicate** | None (Identical matching entry to L01). | Keep entry logged for volume history tracking; do not send a double message to avoid spamming. |
+| **L02** | Website | Person C001 | **Duplicate** | None (Identical matching entry to L01). | Keep both messages, but do not count two people or send the same reply twice to avoid tracking inflation and automated spam. |
 | **L03** | Website | Person C002 | **Awaiting Data** | Destination shipping address, delivery date, and explicit budget limits. | Send custom form link: "To build your total quote for two units, please confirm your delivery pincode and target date." |
 | **L04** | Instagram | Person C003 | **Rejected / Pivot** | Alternative product flexibility. | Politely reject the 3-day turnaround: "Handmade stone requires a strict 21-day processing window. Let's look at accessories." |
 | **L05** | Website | Person C004 | **Pending Verification** | Validated asset sheets. | State that the 10-year warranty certificate and instant stock counts require physical manager confirmation today. |

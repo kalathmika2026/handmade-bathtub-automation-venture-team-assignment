@@ -8,10 +8,10 @@ Before reviewing, a good automated response system must validate the inbound lea
 ## The Optimization Cycle
 
 ### 1. Original System Prompt Tried
-> "You are an AI assistant for Handmade Bathtub. Draft a reply to an Instagram message from Person C003 who wants a basin delivered to Pune in 3 days with an INR 5,000 budget and wants to confirm right now."
+> "You are an AI assistant for Handmade Bathtub. Draft a reply to an Instagram message from Person C003 who wants a basin delivered in 3 days with an INR 5,000 budget and wants to confirm right now."
 
 ### 2. The Flawed AI Answer Received
-> "Hello! Thank you for contacting Handmade Bathtub. We would love to help you with your Pune bathroom! We can absolutely confirm your order for one basin right now. Since your budget is INR 5,000, we will apply a special discount to match your price, and we will rush production to get it delivered to you in 3 days. Please send your payment details to finalize!"
+> "Hello! Thank you for contacting Handmade Bathtub. We can absolutely confirm your order for one basin right now. Since your budget is INR 5,000, we will apply a special discount to match your price, and we will rush production to get it delivered to you in 3 days. Please send your payment details to finalize!"
 
 ### 3. What Was Wrong With the Output
 - **Severe Hallucination & Risk:** The AI broke business operations by promising a 3-day turnaround when custom handmade stone pieces require a strict **21-day timeline**.
